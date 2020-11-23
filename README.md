@@ -13,10 +13,24 @@
 
 - [2020-11-17](./documents/2020-11-17.md) : HTTP Response Code: 207 Multi-Status
 
-### Javascript
+### JavaScript
 
 - [2020-06-21](./documents/2020-06-21.md) : 간략하게 조사한 Headless CMS
 - [2020-07-05](./documents/2020-07-05.md) : Gatsby.js
+- [2020-07-15](./documents/2020-07-15.md) : 오늘의 TMI
+
+### TypeScript
+
+- [2020-08-26](./documents/2020-08-26.md) : 클래스 생성자의 멤버 변수 할당
+
+### Tech
+
+- [2020-08-28](./documents/2020-08-28.md) : puppeteer-recorder
+
+### Troubleshooting
+
+- [2020-07-30](./documents/2020-07-30.md) : TypeScript - Extended Error
+- [2020-08-25](./documents/2020-08-25.md) : openapi generator 이슈
 
 ### Blog
 
@@ -30,6 +44,13 @@
 
 - [2020-07-08](./documents/2020-07-08.md) : 소프트 스킬 요약
 - [2020-07-09](./documents/2020-07-09.md) : 소프트 스킬 요약(2)
+- [2020-07-10](./documents/2020-07-10.md) : 소프트 스킬 요약(3)
+- [2020-07-11](./documents/2020-07-11.md) : 소프트 스킬 요약(4)
+- [2020-07-13](./documents/2020-07-13.md) : 소프트 스킬 요약(5)
+- [2020-07-16](./documents/2020-07-16.md) : 소프트 스킬 요약(6)
+- [2020-07-22](./documents/2020-07-22.md) : 소프트 스킬 요약(7)
+- [2020-07-23](./documents/2020-07-23.md) : 소프트 스킬 요약(8)
+- [2020-07-27](./documents/2020-07-27.md) : 소프트 스킬 요약(9)
 
 ### Retrospective
 
