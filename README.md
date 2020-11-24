@@ -31,6 +31,7 @@
 
 - [2020-07-30](./documents/2020-07-30.md) : TypeScript - Extended Error
 - [2020-08-25](./documents/2020-08-25.md) : openapi generator 이슈
+- [2020-11-24](./documents/2020-11-24.md) : yarnrc, npmrc 이슈(1)
 
 ### Blog
 
