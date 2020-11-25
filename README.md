@@ -26,6 +26,7 @@
 ### Tech
 
 - [2020-08-28](./documents/2020-08-28.md) : puppeteer-recorder
+- [2020-11-25](./documents/2020-11-25.md) : yarnrc, npmrc 이슈(2)
 
 ### Troubleshooting
 
