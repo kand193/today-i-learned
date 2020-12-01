@@ -27,6 +27,7 @@
 
 - [2020-08-28](./documents/2020-08-28.md) : puppeteer-recorder
 - [2020-11-25](./documents/2020-11-25.md) : yarnrc, npmrc 이슈(2)
+- [2020-12-01](./documents/2020-12-01.md) : Svelte(1) - 번역하면서 공부해보기
 
 ### Troubleshooting
 
