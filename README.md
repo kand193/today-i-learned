@@ -29,6 +29,7 @@
 - [2020-11-25](./documents/2020-11-25.md) : yarnrc, npmrc 이슈(2)
 - [2020-12-01](./documents/2020-12-01.md) : Svelte(1) - 번역하면서 공부해보기
 - [2020-12-02](./documents/2020-12-02.md) : Svelte(2) - 튜토리얼 따라하기
+- [2020-12-08](./documents/2020-12-08.md) : Svelte(3) - 튜토리얼 따라하기(2)
 
 ### Troubleshooting
 
